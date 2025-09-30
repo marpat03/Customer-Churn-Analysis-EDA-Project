@@ -19,9 +19,9 @@ The objective of this project was to analyse the churn rate of customers in a hy
 
 4. **Add-On Services and Payment Methods Impact Churn:** Lack of add-ons like Online Security (41.77% churn without vs. 14.64% with) increases churn, while automatic payment methods (e.g., Bank transfer, 16.71% churn) are linked to lower churn than Electronic check (45.29%). Promoting add-ons and automatic payments, especially for Month-to-month customers, can enhance retention.
    
-5. **Gender has no effect on churn:** The gender distribution in the data given was equal between males and females across all fields. Additionally, their churn rates (26.2% and 26.9%, respectively), indicating that gender has a very minimal impact of churn. Therefore, target marketing for both genders is unnecessary.
+5. **Gender Has No Effect on Churn:** The gender distribution in the data given was equal between males and females across all fields. Additionally, their churn rates (26.2% and 26.9%, respectively), indicating that gender has a very minimal impact of churn. Therefore, target marketing for both genders is unnecessary.
    
-6. **Senior Customers without add-ons are more likely to churn:** Seniors who do not have add-ons, such as online security, are more than twice likely to churn compared to Senior Customers who do have online security add-ons (50.4% vs 22.7%, respectively). Bundle offers with online security and/or internet service can be distributed during the onboarding process, especially for more senior individuals. 
+6. **Senior Customers Without Add-Ons Are More Likely To Churn:** Seniors who do not have add-ons, such as online security, are more than twice likely to churn compared to Senior Customers who do have online security add-ons (50.4% vs 22.7%, respectively). Bundle offers with online security and/or internet service can be distributed during the onboarding process, especially for more senior individuals. 
 
 ---
 
